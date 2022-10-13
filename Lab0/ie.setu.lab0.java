@@ -5,6 +5,10 @@
 
 package ie.setu.OOSP
 
-public class CharTest{
-    
+public class Test{
+    public static void main(String[]args){
+        System.out.println("This is a test");
+        System.out.println("Added a second statement");
+        System.out.println("added a third statement");
+    }
 }
